@@ -1,1 +1,1 @@
-# Repo to Tkinter code
+# Repo for Tkinter code
