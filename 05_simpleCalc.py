@@ -105,9 +105,7 @@ button_0.grid(row=4,column=0)
 button_equal.grid(row=5, column=1, columnspan=2)
 button_add.grid(row=5, column=0)
 button_clear.grid(row=4, column=1, columnspan=2)
-
 button_subtract.grid(row=6, column=0)
 button_multiply.grid(row=6, column=1)
 button_divide.grid(row=6, column=2)
-
 root.mainloop() 
